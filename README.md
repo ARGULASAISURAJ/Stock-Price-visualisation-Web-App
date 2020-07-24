@@ -5,8 +5,10 @@ We can visualise stock price-open,High,Close,Low and volume of stock from a give
 As of this time I have created visualisation for Google, Microsoft and Apple from given date to current date. 
 
 This is part of creating some Data Visualisations Learnings using python.
-
+## Multiple Companies View
 ![](https://github.com/ARGULASAISURAJ/Stock-Price-visualisation-Web-App/blob/master/Stock_Price_App.PNG)
+## Single Company with Data View
+![](https://github.com/ARGULASAISURAJ/Stock-Price-visualisation-Web-App/blob/master/Stock_Price_App_single.PNG)
 
 References -
 
